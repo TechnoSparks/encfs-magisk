@@ -1,5 +1,6 @@
 # EncFS
 EncFS binaries for the Android environment, packaged as Magisk module
+
 Built by [DualJoe](https://forum.xda-developers.com/member.php?u=4293606) @ XDA Developers
 
 ## Description
