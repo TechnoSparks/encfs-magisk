@@ -8,6 +8,8 @@ Installing this module will allow you to have EncFS binary and other required bi
 
 This module only packages the binary files! No feature is provided with this module.
 
+Binary files are taken from [Linux binaries for Android](https://forum.xda-developers.com/android/software/utils-data-recovery-tools-testdisk-t3709380) XDA thread by DualJoe.
+
 ## Requirements
 - Magisk Stable version ≥17
 - ARM device (32-bit or 64-bit)
