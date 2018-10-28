@@ -10,7 +10,7 @@ This module only packages the binary files! No feature is provided with this mod
 
 Binary files are taken from "[Linux binaries for Android](https://forum.xda-developers.com/android/software/utils-data-recovery-tools-testdisk-t3709380)" XDA thread by DualJoe.
 
-Note: Only report issues on this GitHub repository and not XDA thread linked above. This module is managed by TechnoSparks.
+Note: Only report issues/questions on this GitHub repository and not XDA thread linked above. This module is packed and managed by TechnoSparks and not DualJoe!
 
 ## Requirements
 - Magisk version ≥17
