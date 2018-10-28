@@ -13,5 +13,5 @@ Binary files are taken from "[Linux binaries for Android](https://forum.xda-deve
 Note: Only report issues on this GitHub repository and not XDA thread linked above. This module is managed by TechnoSparks.
 
 ## Requirements
-- Magisk Stable version ≥17
+- Magisk version ≥17
 - ARM device (32-bit or 64-bit)
