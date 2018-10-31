@@ -2,6 +2,6 @@ id=encfs
 name=EncFS
 version=v1.9.5
 versionCode=1
-author=DualJoe
+author=TechnoSparks, DualJoe
 description=EncFS binaries for the Android environment
 minMagisk=17000
