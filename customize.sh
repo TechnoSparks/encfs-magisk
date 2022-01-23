@@ -25,3 +25,6 @@ if [ "$ARCH" == "arm64" ]; then
 elif [ "$ARCH" == "arm" ]; then
     rm -rf $MODPATH/arm64
 fi
+
+ui_print "- Preserve README!"
+mv $MODPATH/README.md $MODPATH/Module-Readme.md
