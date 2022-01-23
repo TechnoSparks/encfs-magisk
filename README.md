@@ -13,5 +13,10 @@ Binary files are taken from "[Linux binaries for Android](https://forum.xda-deve
 Note: Only report issues/questions on this GitHub repository and not XDA thread linked above. This module is packed and managed by TechnoSparks and not DualJoe!
 
 ## Requirements
-- Magisk version ≥17
-- ARM device (32-bit or 64-bit)
+- Magisk version 23
+- ARM device (32-bit (ARMv7) or 64-bit (ARMv8))
+
+## Notes
+- Make sure your "Mount Namespace Mode" is set to "Global", otherwise mounted `encfs` directories won't reflect to other apps!
+- Using FUSE on Android require root. Since `encfs` uses FUSE, it inherently needs root as well. Execute encfs in a root shell always.
+- Much more useful info can be gathered in [this post](https://forum.xda-developers.com/t/mod-encrypt-sdcard-with-encfs.3027711/#post-75721227)
