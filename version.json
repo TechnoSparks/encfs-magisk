@@ -1,6 +1,6 @@
 {
-    "version": "v1.9.5",
-    "versionCode": 202201262,
-    "zipUrl": "https://github.com/TechnoSparks/encfs-magisk/releases/download/v1.0.3/encfs-magisk.zip",
-    "changelog": "https://github.com/TechnoSparks/encfs-magisk/releases/tag/v1.0.3"
+    "version": "v1.0.4 (encfs v1.9.5)",
+    "versionCode": 202201263,
+    "zipUrl": "https://github.com/TechnoSparks/encfs-magisk/releases/download/v1.0.4/encfs-magisk.zip",
+    "changelog": "https://github.com/TechnoSparks/encfs-magisk/raw/v1.0.4/changelog.md"
 }
