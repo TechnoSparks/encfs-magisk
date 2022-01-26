@@ -1,7 +1,7 @@
 id=encfs
 name=EncFS
 version=v1.9.5
-versionCode=202201261
+versionCode=202201262
 author=TechnoSparks, DualJoe
 description=EncFS binaries for the Android environment
 updateJson=https://github.com/TechnoSparks/encfs-magisk/raw/master/version.json
