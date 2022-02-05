@@ -16,6 +16,12 @@ Note: Only report issues/questions on this GitHub repository and not XDA thread 
 - Magisk version 23
 - ARM device (32-bit (ARMv7) or 64-bit (ARMv8))
 
+## Installing
+Flash the zip (Releases section) in Magisk Manager or in recovery.
+
+## Building
+Run `build.cmd` on Windows.
+
 ## Notes
 - Make sure your "Mount Namespace Mode" is set to "Global", otherwise mounted `encfs` directories won't reflect to other apps!
 - Using FUSE on Android require root. Since `encfs` uses FUSE, it inherently needs root as well. Execute encfs in a root shell always.
