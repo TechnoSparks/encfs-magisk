@@ -21,7 +21,7 @@ Note: Only report issues/questions on this GitHub repository and not XDA thread 
 ### Installing
 Flash the zip (Releases section) in Magisk Manager or in recovery.
 
-## Notes
+### Notes
 - Make sure your "Mount Namespace Mode" is set to "Global", otherwise mounted `encfs` directories won't reflect to other apps!
 - Using FUSE on Android require root. Since `encfs` uses FUSE, it inherently needs root as well. Execute encfs in a root shell always.
 - Much more useful info can be gathered in [this post](https://forum.xda-developers.com/t/mod-encrypt-sdcard-with-encfs.3027711/#post-75721227)
