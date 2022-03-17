@@ -15,7 +15,7 @@ Note: Only report issues/questions on this GitHub repository and not XDA thread 
 ## Usage
 
 ### Requirements
-- Magisk version 23
+- Magisk version 23 or newer
 - ARM device (32-bit (ARMv7) or 64-bit (ARMv8))
 
 ### Installing
